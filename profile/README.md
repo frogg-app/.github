@@ -1,34 +1,36 @@
-# Welcome to frogg.app 🐸
+```
+      @..@
+     (----)
+    ( >__< )
+    ^^ ~~ ^^
+```
 
-## Rapid Development. Powerful Applications.
+# 🐸 frogg.app
 
-We're **frogg.app** - an organization dedicated to building and deploying innovative applications at speed. Our mission is to create modern, efficient, and user-friendly solutions that make a difference.
+A collection of tools and applications.
 
-## 🚀 What We Do
+Built by [Steve](https://github.com/S-T-3-V-3) & [Paz](https://github.com/rushhee)
 
-- **Rapid Development**: We iterate quickly and ship often
-- **Modern Stack**: Leveraging the latest technologies and best practices
-- **Open Collaboration**: Building in the open with the community
-- **Quality First**: Fast doesn't mean compromising on quality
+## Projects
 
-## 🌟 Featured Projects
+<!-- PROJECTS-START -->
+| Project | Description | Language |
+|---------|-------------|----------|
+| [stash](https://github.com/frogg-app/stash) | A fast, keyboard-driven, self-hostable code snippet manager | TypeScript |
+| [prompt-assistant](https://github.com/frogg-app/prompt-assistant) | - | JavaScript |
+| [simple-md-viewer](https://github.com/frogg-app/simple-md-viewer) | Cross platform markdown viewer | JavaScript |
+| [app-tracker](https://github.com/frogg-app/app-tracker) | - | TypeScript |
+| [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
+<!-- PROJECTS-END -->
 
-Check out our repositories to see what we're building!
+## Contributing
 
-## 🤝 Get Involved
+These are mostly personal projects, but if you spot a bug or have a cool idea, feel free to open an issue or PR.
 
-We welcome contributions from developers of all skill levels!
+## Contact
 
-- 📖 Read our [Contributing Guidelines](https://github.com/frogg-app/.github/blob/main/CONTRIBUTING.md)
-- 💬 Join the conversation in [Discussions](https://github.com/orgs/frogg-app/discussions)
-- 🐛 Report issues or suggest features in our project repositories
-- ⭐ Star the projects you find interesting
-
-## 📫 Stay Connected
-
-- 🌐 Website: [frogg.app](https://frogg.app)
-- 📧 Contact us through our repositories
+Website: [frogg.app](https://frogg.app)
 
 ---
 
-*Hop on over and join us!* 🐸✨
+<sub>*we make things sometimes*</sub>

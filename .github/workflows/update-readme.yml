@@ -1,0 +1,56 @@
+name: Update README with Projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch repos and update README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            const repos = await github.rest.repos.listForOrg({
+              org: 'frogg-app',
+              type: 'public',
+              sort: 'updated',
+              per_page: 100
+            });
+            
+            const projects = repos.data
+              .filter(repo => !repo.name.startsWith('.') && !repo.fork)
+              .map(repo => {
+                const desc = repo.description || '-';
+                return `| [${repo.name}](${repo.html_url}) | ${desc} | ${repo.language || '-'} |`;
+              });
+            
+            const tableHeader = '| Project | Description | Language |\n|---------|-------------|----------|';
+            
+            const projectList = projects.length > 0 
+              ? tableHeader + '\n' + projects.join('\n')
+              : '*No public projects yet*';
+            
+            let readme = fs.readFileSync('profile/README.md', 'utf8');
+            readme = readme.replace(
+              /<!-- PROJECTS-START -->[\s\S]*<!-- PROJECTS-END -->/,
+              '<!-- PROJECTS-START -->\n' + projectList + '\n<!-- PROJECTS-END -->'
+            );
+            
+            fs.writeFileSync('profile/README.md', readme);
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile/README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update project list"
+          git push
