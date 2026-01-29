@@ -16,11 +16,11 @@ Built by [Steve](https://github.com/S-T-3-V-3) & [Paz](https://github.com/rushhe
 <!-- PROJECTS-START -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
 | [prompt-assistant](https://github.com/frogg-app/prompt-assistant) | - | JavaScript |
 | [app-tracker](https://github.com/frogg-app/app-tracker) | - | TypeScript |
 | [simple-md-viewer](https://github.com/frogg-app/simple-md-viewer) | Cross platform markdown viewer | JavaScript |
 | [stash](https://github.com/frogg-app/stash) | A fast, keyboard-driven, self-hostable code snippet manager | TypeScript |
-| [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
 <!-- PROJECTS-END -->
 
 ## Contributing
