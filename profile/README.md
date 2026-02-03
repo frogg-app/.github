@@ -16,13 +16,13 @@ Built by [Steve](https://github.com/S-T-3-V-3) & [Paz](https://github.com/rushhe
 <!-- PROJECTS-START -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
+| [app-tracker](https://github.com/frogg-app/app-tracker) | - | TypeScript |
 | [build-buddy](https://github.com/frogg-app/build-buddy) | Build status dashboard for Jenkins CI/CD pipelines | TypeScript |
 | [simple-md-viewer](https://github.com/frogg-app/simple-md-viewer) | Cross platform markdown viewer | JavaScript |
 | [domain-management](https://github.com/frogg-app/domain-management) | Self-hosted domain management: search, register, DNS control, certificates, DynDNS, and reverse proxy configuration | TypeScript |
 | [stash](https://github.com/frogg-app/stash) | A fast, keyboard-driven, self-hostable code snippet manager | TypeScript |
-| [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
 | [prompt-assistant](https://github.com/frogg-app/prompt-assistant) | - | JavaScript |
-| [app-tracker](https://github.com/frogg-app/app-tracker) | - | TypeScript |
 <!-- PROJECTS-END -->
 
 ## Contributing
