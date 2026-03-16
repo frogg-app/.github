@@ -16,6 +16,7 @@ Built by [Steve](https://github.com/S-T-3-V-3) & [Paz](https://github.com/rushhe
 <!-- PROJECTS-START -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [cc-timer](https://github.com/frogg-app/cc-timer) | Track lifetime Claude Code usage per codebase | JavaScript |
 | [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
 | [app-tracker](https://github.com/frogg-app/app-tracker) | - | TypeScript |
 | [simple-md-viewer](https://github.com/frogg-app/simple-md-viewer) | Cross platform markdown viewer | JavaScript |
