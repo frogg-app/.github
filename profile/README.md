@@ -16,6 +16,7 @@ Built by [Steve](https://github.com/S-T-3-V-3) & [Paz](https://github.com/rushhe
 <!-- PROJECTS-START -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [docker-game-servers](https://github.com/frogg-app/docker-game-servers) | A web dashboard to manage game servers via docker and docker compose | TypeScript |
 | [domain-management](https://github.com/frogg-app/domain-management) | Self-hosted domain management: search, register, DNS control, certificates, DynDNS, and reverse proxy configuration | TypeScript |
 | [cc-timer](https://github.com/frogg-app/cc-timer) | Track lifetime Claude Code usage per codebase | JavaScript |
 | [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
