@@ -32,7 +32,3 @@ These are mostly personal projects, but if you spot a bug or have a cool idea, f
 ## Contact
 
 Website: [frogg.app](https://frogg.app)
-
----
-
-<sub>*we make things sometimes*</sub>
