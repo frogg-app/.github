@@ -16,14 +16,12 @@ Built by [Steve](https://github.com/S-T-3-V-3) & [Paz](https://github.com/rushhe
 <!-- PROJECTS-START -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [prompt-assistant](https://github.com/frogg-app/prompt-assistant) | - | JavaScript |
+| [simple-md-viewer](https://github.com/frogg-app/simple-md-viewer) | Cross platform markdown viewer | JavaScript |
+| [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
 | [game-server-repository](https://github.com/frogg-app/game-server-repository) | Public game-server catalog for GamePanel — the default repository GamePanel pulls game definitions from. | - |
 | [domain-management](https://github.com/frogg-app/domain-management) | Self-hosted domain management: search, register, DNS control, certificates, DynDNS, and reverse proxy configuration | TypeScript |
-| [cc-timer](https://github.com/frogg-app/cc-timer) | Track lifetime Claude Code usage per codebase | JavaScript |
-| [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
 | [app-tracker](https://github.com/frogg-app/app-tracker) | - | TypeScript |
-| [simple-md-viewer](https://github.com/frogg-app/simple-md-viewer) | Cross platform markdown viewer | JavaScript |
-| [stash](https://github.com/frogg-app/stash) | A fast, keyboard-driven, self-hostable code snippet manager | TypeScript |
-| [prompt-assistant](https://github.com/frogg-app/prompt-assistant) | - | JavaScript |
 <!-- PROJECTS-END -->
 
 ## Contributing
