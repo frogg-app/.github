@@ -16,6 +16,7 @@ Built by [Steve](https://github.com/S-T-3-V-3) & [Paz](https://github.com/rushhe
 <!-- PROJECTS-START -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [launchpd-repository](https://github.com/frogg-app/launchpd-repository) | Service, widget and icon definitions for launchpd. Data only: nothing in a manifest ever executes. | - |
 | [prompt-assistant](https://github.com/frogg-app/prompt-assistant) | - | JavaScript |
 | [simple-md-viewer](https://github.com/frogg-app/simple-md-viewer) | Cross platform markdown viewer | JavaScript |
 | [server-monitoring](https://github.com/frogg-app/server-monitoring) | - | Dart |
