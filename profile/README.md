@@ -16,8 +16,8 @@ Built by [Steve](https://github.com/S-T-3-V-3) & [Paz](https://github.com/rushhe
 <!-- PROJECTS-START -->
 | Project | Description | Language |
 |---------|-------------|----------|
-| [rippel](https://github.com/frogg-app/rippel) | A self-hosted web front end for ComfyUI: pick a capability and a few controls, never see a node. | HTML |
 | [fde](https://github.com/frogg-app/fde) | Frogg DE: Tauri desktop client for remote AI coding agents (fork of Paseo) | TypeScript |
+| [rippel](https://github.com/frogg-app/rippel) | A self-hosted web front end for ComfyUI: pick a capability and a few controls, never see a node. | HTML |
 | [launchpd-repository](https://github.com/frogg-app/launchpd-repository) | Service, widget and icon definitions for launchpd. Data only: nothing in a manifest ever executes. | - |
 | [prompt-assistant](https://github.com/frogg-app/prompt-assistant) | - | JavaScript |
 | [simple-md-viewer](https://github.com/frogg-app/simple-md-viewer) | Cross platform markdown viewer | JavaScript |
