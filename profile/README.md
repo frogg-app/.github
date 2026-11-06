@@ -17,9 +17,9 @@ Built by [Steve](https://github.com/S-T-3-V-3) & [Paz](https://github.com/rushhe
 | Project | Description | Language |
 |---------|-------------|----------|
 | [frogg](https://github.com/frogg-app/frogg) | Frogg Development Environment: Tauri desktop client for remote AI coding agents (fork of Paseo) | TypeScript |
+| [frogg-plugins](https://github.com/frogg-app/frogg-plugins) | Official plugin repository for frogg | TypeScript |
 | [rippel](https://github.com/frogg-app/rippel) | A self-hosted web front end for ComfyUI: pick a capability and a few controls, never see a node. | TypeScript |
 | [cliphun.tr](https://github.com/frogg-app/cliphun.tr) | ClipHuntr website and downloads (cliphun.tr) | HTML |
-| [frogg-plugins](https://github.com/frogg-app/frogg-plugins) | Official plugin repository for frogg | TypeScript |
 | [launchpd-repository](https://github.com/frogg-app/launchpd-repository) | Service, widget and icon definitions for launchpd. Data only: nothing in a manifest ever executes. | - |
 | [prompt-assistant](https://github.com/frogg-app/prompt-assistant) | - | JavaScript |
 | [simple-md-viewer](https://github.com/frogg-app/simple-md-viewer) | Cross platform markdown viewer | JavaScript |
